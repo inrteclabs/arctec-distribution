@@ -1,6 +1,6 @@
 {
  "catalog_format_version": 1,
- "generated_at": "2026-11-16T18:25:11+00:00",
+ "generated_at": "2026-11-16T18:39:10+00:00",
  "faces": [
   {
    "package_format_version": 1,
@@ -38,6 +38,43 @@
    "package_sha256": "fe29d8f89cc9f6f3f53225519188f364100c21f24c3acdc9c1597f85f127eb5e",
    "package_bytes": 582188,
    "published_at": "2026-11-16T15:26:30+00:00"
+  },
+  {
+   "package_format_version": 1,
+   "package_id": "com.arctec.face.pearl-gold",
+   "package_version": "1.0.0",
+   "display_name": "Pearl Gold",
+   "description": "Interpreted with rules; prompt 2026-11-11.1",
+   "author": "Arctec",
+   "category": "analog",
+   "hardware_compatibility": [
+    "arctec-ws185"
+   ],
+   "display_compatibility": [
+    {
+     "width": 360,
+     "height": 360,
+     "shape": "round",
+     "color_depth": 16
+    }
+   ],
+   "minimum_firmware_version": "0.11.0",
+   "package_size": 657700,
+   "created_at": "2026-11-16T18:38:36+00:00",
+   "modified_at": "2026-11-16T18:38:36+00:00",
+   "signature": {
+    "scheme": "rsa3072-pss-sha256",
+    "key_id": "176482a58216e020",
+    "sha256": "6c0833c0d5fadc20455de7ba24c7a1c2a8c6dc241d753393ea4ea5766bffeff1",
+    "value": "YGM8TDQGs1XMaTTyYkOiUJBIQtUHZaTQSUTaZT4f11bvBelw57JJFMnx5SdRfr14cKKYkjp0WEUwjOdcolb5IF2hPEpsQAal0lVkR7luJHMdohATu/VNei1PfIFSIgFHl1njmsBZNw13V+IZOuerqHs93qIdxhBfyioRKfa/KFC8URv48DOm6AEa+Vy6JDdJ+OGNB/FbpUFqaqD0089RgCNKFjIaqT+eGB3L/z2ZIYa5iglxZRo5ykXfn+Fd9Kis3oulU9ybqIzZpc+lN2tH0DM6Vz94PRbymAjwCjEx98irDIGhlTjtgAg9PLJUSA2VPpYJV3IZy2ATuCBkGAYbx2IWXAyXFWq4Y8PP6mrFN22GsbS2XOnef1etxxxyuBZSkNPpXU4cNsnB3RdfcbRQp+6VgJTHuxOj9ZPtyYt+2x1r4IT47WIzGJ42t4HgnuMzSD7gnDWRjh2sgHnd8lepDHntOzxyxh38bydxChlYr/PQrqERq/WDnbRpSSsDymcN"
+   },
+   "publication_status": "published",
+   "preview_url": "faces/com.arctec.face.pearl-gold/1.0.0/preview.png",
+   "hero_dial_url": "faces/com.arctec.face.pearl-gold/1.0.0/hero-dial.png",
+   "package_url": "faces/com.arctec.face.pearl-gold/1.0.0/com.arctec.face.pearl-gold-1.0.0.awfp",
+   "package_sha256": "6c0833c0d5fadc20455de7ba24c7a1c2a8c6dc241d753393ea4ea5766bffeff1",
+   "package_bytes": 657700,
+   "published_at": "2026-11-16T18:39:10+00:00"
   }
  ]
 }
