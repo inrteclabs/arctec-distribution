@@ -1,5 +1,19 @@
 {
  "releases_format_version": 1,
- "generated_at": "2026-11-16T13:34:51+00:00",
- "releases": []
+ "generated_at": "2026-11-18T02:37:55+00:00",
+ "releases": [
+  {
+   "hardware_id": "arctec-ws185",
+   "version": "0.14.0",
+   "minimum_installed_version": "0.13.0",
+   "channel": "stable",
+   "release_notes": "Firmware updates over Bluetooth: the Arctec Watch app can now update your watch. The watch checks every update's signature, shows its progress on screen, and goes back to the previous version by itself if an update fails to start.",
+   "image_url": "firmware/arctec-ws185/0.14.0/arctic_watch-0.14.0.bin",
+   "image_bytes": 3280896,
+   "image_sha256": "5011ea4d78cef78634d6a1ed9891af913757403d3afcc4c2e8b145bfcc0281d6",
+   "signature_scheme": "esp-idf-sbv2-rsa3072",
+   "key_id": "7728059607ffe8fa",
+   "published_at": "2026-11-18T02:37:55+00:00"
+  }
+ ]
 }
