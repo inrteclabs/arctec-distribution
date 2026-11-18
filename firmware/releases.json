@@ -1,7 +1,20 @@
 {
  "releases_format_version": 1,
- "generated_at": "2026-11-18T02:38:47+00:00",
+ "generated_at": "2026-11-18T04:15:04+00:00",
  "releases": [
+  {
+   "hardware_id": "arctec-ws146",
+   "version": "0.14.0",
+   "minimum_installed_version": "0.13.0",
+   "channel": "stable",
+   "release_notes": "First firmware with Bluetooth updates for the 1.46 watch: signed images, automatic rollback, update screen.",
+   "image_url": "firmware/arctec-ws146/0.14.0/arctic_watch-0.14.0.bin",
+   "image_bytes": 3280896,
+   "image_sha256": "5e4b5bc1ff85a6c64b2a9ff971022b1d2010a2fa1dbd798af56d3b514144a611",
+   "signature_scheme": "esp-idf-sbv2-rsa3072",
+   "key_id": "7728059607ffe8fa",
+   "published_at": "2026-11-18T04:15:04+00:00"
+  },
   {
    "hardware_id": "arctec-ws185",
    "version": "0.14.0",
