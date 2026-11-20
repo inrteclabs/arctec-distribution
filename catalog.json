@@ -1,6 +1,6 @@
 {
  "catalog_format_version": 1,
- "generated_at": "2026-11-16T18:39:10+00:00",
+ "generated_at": "2026-11-20T03:36:14+00:00",
  "faces": [
   {
    "package_format_version": 1,
@@ -31,7 +31,7 @@
     "sha256": "fe29d8f89cc9f6f3f53225519188f364100c21f24c3acdc9c1597f85f127eb5e",
     "value": "LFlOj0aMdvT8abk2ZlC3F4ppT8Ike/gMUnHfuevZ+wOkVUOX4lxre3KrFyvBIModbt9wxq0t94DKJIojUWjQvl6cX+E01Aful7eiRcVolzqjJ+sId+4/Tz0x/PtuyGUlDxoLAqlx+cVXsNqDedP5Q/zVLz/dY/svlAQWC7PjYZgLdkbbd0YNhoKH89aHpGh8ZAFNwFvBIHFkAfNIi/gURTPyrEy/CZ6h3KHwY0wZ4HAdqGtNUTVG5AMAqvbFNaiqpSIcuFNl0CMIoWqNErk2OJgkZGgJ5gakwsxQSj+6XUG/TxpN5nrKiDujT4VabUiiJ8DhFgRqBTbD1hI/VbisDah8e34mu6zchjBjy0dUMtxCBUYAkljlhbWjcicjllsgmr6EcK9ZxpOqbBY2AVgSBvW6eJrEbXLlTVJfJ4x9DVXutQegf+e5DdQ4+YIKN+wbgKKSpVRR2TdO1Rk8f6TMcw0pFuZww4VfwiGWtx5y1UmfKQodEEwhqedzcVgfnUbf"
    },
-   "publication_status": "discontinued",
+   "publication_status": "published",
    "preview_url": "faces/com.arctec.face.arctec-watch-face-green/1.0.0/preview.png",
    "hero_dial_url": "faces/com.arctec.face.arctec-watch-face-green/1.0.0/hero-dial.png",
    "package_url": "faces/com.arctec.face.arctec-watch-face-green/1.0.0/com.arctec.face.arctec-watch-face-green-1.0.0.awfp",
