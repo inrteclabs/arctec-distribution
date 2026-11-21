@@ -1,6 +1,6 @@
 {
  "catalog_format_version": 1,
- "generated_at": "2026-11-21T04:26:42+00:00",
+ "generated_at": "2026-11-21T04:30:39+00:00",
  "faces": [
   {
    "package_format_version": 1,
@@ -112,6 +112,43 @@
    "package_sha256": "04b19734329ad96ce65977e7379d962372e4e900c86fcd5c8aea23ec2d2ae436",
    "package_bytes": 556380,
    "published_at": "2026-11-20T13:48:54+00:00"
+  },
+  {
+   "package_format_version": 1,
+   "package_id": "com.arctec.face.gold",
+   "package_version": "1.0.0",
+   "display_name": "Black Marble Gold 2",
+   "description": "Interpreted with rules; prompt 2026-11-11.1",
+   "author": "Arctec",
+   "category": "analog",
+   "hardware_compatibility": [
+    "arctec-ws185"
+   ],
+   "display_compatibility": [
+    {
+     "width": 360,
+     "height": 360,
+     "shape": "round",
+     "color_depth": 16
+    }
+   ],
+   "minimum_firmware_version": "0.11.0",
+   "package_size": 591348,
+   "created_at": "2026-11-21T04:30:23+00:00",
+   "modified_at": "2026-11-21T04:30:23+00:00",
+   "signature": {
+    "scheme": "rsa3072-pss-sha256",
+    "key_id": "176482a58216e020",
+    "sha256": "208bbfc6278988f1bfdc6ccd47e602af3faf3018702561ee271416eb694accf8",
+    "value": "BZux3SAXwevSj8xcoHiLEiIwqXp0W/8IQGvpfUi0iR/dZmrmrKwmt43HzPehrlhYEVCgNbUZSjssRx65rENy2QzDy3Y2YUNELWRGelM7prigr/OQY93Eh3Fm1CQ4dxxMBS1qnzGoqc+hYTbESYvXh9r3Vt96KjuyuP3SjNDQ7wlQEqYOGzLrL98XHCbIS0Y+Oznx/KTnQKsY9fzGePcZLJ7UZjXicUB7L3Gzt82mvQglbUWdqdfAcW/UXePwE7TUxPNI9rVQ+x47X6k/9FV4T81xxzKKXjpZtuJbsMYwX8XWbI+AmrmKag7PxIAVJOt6lNN//OtvDlxASpjoxiHKabQj5dtaxhJawWBp+0A75v7j7WWXobaHsUBh+sJzYwHJj5FGAH7MDaPAcvgwtbdz4bJappBzwz/db+tDD+emq99cmpGa03oJQa2X+2b66kQODXfPu9L2VchkyHjcjPGfmju+sZOGewAd5VZb1ysjrFtp9kurWwRw7koEW5t4gmPF"
+   },
+   "publication_status": "published",
+   "preview_url": "faces/com.arctec.face.gold/1.0.0/preview.png",
+   "hero_dial_url": "faces/com.arctec.face.gold/1.0.0/hero-dial.png",
+   "package_url": "faces/com.arctec.face.gold/1.0.0/com.arctec.face.gold-1.0.0.awfp",
+   "package_sha256": "208bbfc6278988f1bfdc6ccd47e602af3faf3018702561ee271416eb694accf8",
+   "package_bytes": 591348,
+   "published_at": "2026-11-21T04:30:39+00:00"
   },
   {
    "package_format_version": 1,
