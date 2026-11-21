@@ -1,6 +1,6 @@
 {
  "catalog_format_version": 1,
- "generated_at": "2026-11-21T04:25:04+00:00",
+ "generated_at": "2026-11-21T04:26:42+00:00",
  "faces": [
   {
    "package_format_version": 1,
@@ -142,7 +142,7 @@
     "sha256": "d3695c1da31bed50445facac35d78a5441791cd0cdae9ac28c0f86bb5dc37bfb",
     "value": "WsDY0lnhccL8QfaIW6EVSMYsMydGe2epIHDl4KyvN/7Bpilbl7cRqEWaQJtrxdem1njGLqGIOQQykXFaWy+jCrvD8vJHqhuVLFj1wcPRa21oERlkFDSCOov/9ylDy3UNTx/4m5wXY1CW6CkbAbzkrPOpXLsEWMztiDmMm1Yt0zCewIIcT7qoYQDgTEljC0/nDIOwYADymR8t12YhGQbX8R596F0pxwBz6klBFDOfCQQ9hRnEfO1+I1Nm5CIRBtm3iKsfYxbt9iboIps+VJTXo5wMRKGsEYtUmILG4lehbK+CAjSkD4/gW6lApV+240vKUWy+gksX8mpXSxC7iT6QpR69RRkM4WGXGcezSXrPMW2Hz+ElmxLcBNa6yxEEFPJqpF6e2qbNRfid1C6xGWRlGQG2vhWeGhp4nlGZjCyZYO7HJGbS3gWNG08473K9C97HCOYqlpkb7j/+NkZMSqd2ZOWTqlNKl+8sw2JKGlEJMCjXPPvpgz4KW+l0aoHKy42o"
    },
-   "publication_status": "published",
+   "publication_status": "discontinued",
    "preview_url": "faces/com.arctec.face.gold-photoreal/1.0.0/preview.png",
    "hero_dial_url": "faces/com.arctec.face.gold-photoreal/1.0.0/hero-dial.png",
    "package_url": "faces/com.arctec.face.gold-photoreal/1.0.0/com.arctec.face.gold-photoreal-1.0.0.awfp",
