@@ -1,6 +1,6 @@
 {
  "catalog_format_version": 1,
- "generated_at": "2026-11-21T04:57:39+00:00",
+ "generated_at": "2026-11-21T15:43:58+00:00",
  "faces": [
   {
    "package_format_version": 1,
@@ -334,6 +334,43 @@
    "package_sha256": "6c0833c0d5fadc20455de7ba24c7a1c2a8c6dc241d753393ea4ea5766bffeff1",
    "package_bytes": 657700,
    "published_at": "2026-11-16T18:39:10+00:00"
+  },
+  {
+   "package_format_version": 1,
+   "package_id": "com.arctec.face.tan-gold-photoreal",
+   "package_version": "1.0.0",
+   "display_name": "Tan Marble Gold Photoreal",
+   "description": "Tan Marble Gold as a photoreal render: real gold markers, hands and logo, and light that moves across the ring as you tilt. Needs watch firmware 0.15.0.",
+   "author": "Arctec",
+   "category": "analog",
+   "hardware_compatibility": [
+    "arctec-ws185"
+   ],
+   "display_compatibility": [
+    {
+     "width": 360,
+     "height": 360,
+     "shape": "round",
+     "color_depth": 16
+    }
+   ],
+   "minimum_firmware_version": "0.15.0",
+   "package_size": 702576,
+   "created_at": "2026-11-21T15:43:54+00:00",
+   "modified_at": "2026-11-21T15:43:54+00:00",
+   "signature": {
+    "scheme": "rsa3072-pss-sha256",
+    "key_id": "176482a58216e020",
+    "sha256": "c1db9b550dde2dba65994703a30ac23aa440a8e1c5d7d0c050f908d6c8e1dd24",
+    "value": "lfHzxuS2tVCGL0Q43gLhAnKmZoOdOltZ04lX6YsXKD9Q4rrJjDbvOMfrMQJkQ7s48tIzIgJPFhc06Q4sRzJ2+zQux2YOhCkeTku7QKTgMjifokQ6T8Dq2HaitrwsuddBWvjqd4OjEVpvIzDmx+miZVgb2ewV/Gn9PgoHnY1yclyccF2NsrkW7N5F9i5U66e5ysSwyZScP5fG6Cam6DAatbaSq0W3fcGHGiyG1YuP6+xFFmbrP/j3ZhJKenjyw5ynUmdyIPxc9AJ75lbxcVtn6kTnQvSiYvTF5eavt0+tDC8Tr39jauFwHSPcrzoK+Bpmgtr0I/uBDY/dvZVeQJLXsUiWdXJP9A5EUwnqAzZygb2xKD7ef53yvk2Kp/bF1aK47oA5ZUCYDVDG9iXBSEL+pAzsJ3fQW3ryrfINnuuXwPWbzzO8JChDM41WaiRDW7moD28ojYmRNq6I8qipZNrzk9SpFJgs6fGnKmk+tccKeGaMkAaW2Nnrb/aohVuYRpx5"
+   },
+   "publication_status": "published",
+   "preview_url": "faces/com.arctec.face.tan-gold-photoreal/1.0.0/preview.png",
+   "hero_dial_url": "faces/com.arctec.face.tan-gold-photoreal/1.0.0/hero-dial.png",
+   "package_url": "faces/com.arctec.face.tan-gold-photoreal/1.0.0/com.arctec.face.tan-gold-photoreal-1.0.0.awfp",
+   "package_sha256": "c1db9b550dde2dba65994703a30ac23aa440a8e1c5d7d0c050f908d6c8e1dd24",
+   "package_bytes": 702576,
+   "published_at": "2026-11-21T15:43:58+00:00"
   }
  ]
 }
