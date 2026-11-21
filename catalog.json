@@ -1,6 +1,6 @@
 {
  "catalog_format_version": 1,
- "generated_at": "2026-11-21T15:43:58+00:00",
+ "generated_at": "2026-11-21T17:55:33+00:00",
  "faces": [
   {
    "package_format_version": 1,
@@ -260,6 +260,43 @@
    "package_sha256": "d3695c1da31bed50445facac35d78a5441791cd0cdae9ac28c0f86bb5dc37bfb",
    "package_bytes": 571000,
    "published_at": "2026-11-21T04:25:04+00:00"
+  },
+  {
+   "package_format_version": 1,
+   "package_id": "com.arctec.face.navy-gold-photoreal",
+   "package_version": "1.0.0",
+   "display_name": "Navy Gold Photoreal",
+   "description": "Navy and gold dial as a photoreal render: applied gold hour markers and hands, printed minute track, and light that moves across the dial as you tilt. Needs watch firmware 0.15.0.",
+   "author": "Arctec",
+   "category": "analog",
+   "hardware_compatibility": [
+    "arctec-ws185"
+   ],
+   "display_compatibility": [
+    {
+     "width": 360,
+     "height": 360,
+     "shape": "round",
+     "color_depth": 16
+    }
+   ],
+   "minimum_firmware_version": "0.15.0",
+   "package_size": 833728,
+   "created_at": "2026-11-21T17:55:29+00:00",
+   "modified_at": "2026-11-21T17:55:29+00:00",
+   "signature": {
+    "scheme": "rsa3072-pss-sha256",
+    "key_id": "176482a58216e020",
+    "sha256": "9c0f9a190860818efdbe398a7c6529e9d7be340b6316d848dec53d745bcb24d0",
+    "value": "RyKY4HCtaKO2uGLgBmxDCWRskt88bbi3d1BueFPQHiLDqrZIh3VbJrSK1bxM0BzrOR0a7vCZQ7eWK88MoKv9LfuZjiE90rfZVvMvdF/sKoCfuaRT1dfy539mViVtQO2YJ2k3Um5amdzd1D6EN7cIO0vIgJLpXHeQStPvYwf1iTlw6GesxEmnQr8CDezAHo1OdZ5C3P1FEybj1un2YoWgj57rh1cKQnjMq/wSe+/+RPfgqfD7QI+OuCtGiXYmthIBdLiZFrlDs7RYoZdzYYhd+rkqB8uppZlyItiSOQEADUkj2zcwDMZaAJBjeM5apJsRVEqlCu5Yeo6M6U3GT6j5gB7YZAnoQ63evWtpX0D8DdTs5ZDBnB1DTusfuS/v7N7YDsrLXnjEh+gcB4zfCf9r95+nILNgadF9TynuK0b5Lc60+zBjcsaJ+/G9+Mo3rmPWYdCvV9zLmdOa3qEastbiCYzq2gaaAEvaHBPQyxPKRr81DT6uA1pcAAwV2s8u2+AQ"
+   },
+   "publication_status": "published",
+   "preview_url": "faces/com.arctec.face.navy-gold-photoreal/1.0.0/preview.png",
+   "hero_dial_url": "faces/com.arctec.face.navy-gold-photoreal/1.0.0/hero-dial.png",
+   "package_url": "faces/com.arctec.face.navy-gold-photoreal/1.0.0/com.arctec.face.navy-gold-photoreal-1.0.0.awfp",
+   "package_sha256": "9c0f9a190860818efdbe398a7c6529e9d7be340b6316d848dec53d745bcb24d0",
+   "package_bytes": 833728,
+   "published_at": "2026-11-21T17:55:33+00:00"
   },
   {
    "package_format_version": 1,
