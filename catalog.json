@@ -1,6 +1,6 @@
 {
  "catalog_format_version": 1,
- "generated_at": "2026-11-22T03:10:20+00:00",
+ "generated_at": "2026-11-22T06:36:54+00:00",
  "faces": [
   {
    "package_format_version": 1,
@@ -297,6 +297,44 @@
    "package_sha256": "4d753b249a2900024fb2965d8e06e0520223a6eb1f16864d834301a38e201f62",
    "package_bytes": 669664,
    "published_at": "2026-11-21T21:41:05+00:00"
+  },
+  {
+   "package_format_version": 1,
+   "package_id": "com.arctec.face.navy-gold-live",
+   "package_version": "1.0.0",
+   "display_name": "Navy Gold Live",
+   "description": "Interpreted with rules; prompt 2026-11-11.1",
+   "author": "Arctec",
+   "category": "hybrid",
+   "hardware_compatibility": [
+    "arctec-ws185",
+    "arctec-ws146"
+   ],
+   "display_compatibility": [
+    {
+     "width": 360,
+     "height": 360,
+     "shape": "round",
+     "color_depth": 16
+    }
+   ],
+   "minimum_firmware_version": "0.16.0",
+   "package_size": 903124,
+   "created_at": "2026-11-22T06:36:45+00:00",
+   "modified_at": "2026-11-22T06:36:45+00:00",
+   "signature": {
+    "scheme": "rsa3072-pss-sha256",
+    "key_id": "176482a58216e020",
+    "sha256": "25510e90448e403f0be0b632985b3410527538e28a1c1c62a4bb8a271f11c281",
+    "value": "SKJv8IpzCWxeUd88F4fCYJXyq/4IUUtWDkdWvB05h+Sye3b9IiPdtjI7ORvGK03CwmMkGC1PQfS5oiL77icrzTSKUTZ0ioHMlD/E8sytb5DGqO82Fj0ZMx0sNyWv9UrPRuGWtoSxp7kaYdHrh+dVk7GEInTpCdI9fmlFS0E1TNnnbgkZ5KNEm1vRcMYsHuv5EOpdWY2ka9P9B4HN/+nHdPK3FyHtIoMHQtB2oRJGru05M2Iy2siTb7HIn+7Yg0OMUbT5qZbOGf2F/kq3s4PGNU0O6IiAFduEv1CwnlV1v10cqczJ/EQ6lzk5nDYAE5MCQ30HhQro66D4OBgSIO7OHqxi78tCD6gorY+Pc5GnOUAKc2K7wbXIs1fFpXBBoyqt2d2RC3C9+E3eKvdmN2V/hmabecZoL//gpKykFdeF0Un5eIXx4nVs2aqfsmYp+PIF6g6Xypb0oBvEZt4059xKf8+NLmAkVxBpiJLh6xqfpJVF7RuNC0rN4eo/y7DrlUO5"
+   },
+   "publication_status": "published",
+   "preview_url": "faces/com.arctec.face.navy-gold-live/1.0.0/preview.png",
+   "hero_dial_url": "faces/com.arctec.face.navy-gold-live/1.0.0/hero-dial.png",
+   "package_url": "faces/com.arctec.face.navy-gold-live/1.0.0/com.arctec.face.navy-gold-live-1.0.0.awfp",
+   "package_sha256": "25510e90448e403f0be0b632985b3410527538e28a1c1c62a4bb8a271f11c281",
+   "package_bytes": 903124,
+   "published_at": "2026-11-22T06:36:54+00:00"
   },
   {
    "package_format_version": 1,
