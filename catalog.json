@@ -1,6 +1,6 @@
 {
  "catalog_format_version": 1,
- "generated_at": "2026-11-22T18:18:56+00:00",
+ "generated_at": "2026-11-22T18:19:00+00:00",
  "faces": [
   {
    "package_format_version": 1,
@@ -297,6 +297,43 @@
    "package_sha256": "1e5055a890fe3fe11a1b98e8b8df9a865ba0264b40f3cc894a9d4d8606ae40ff",
    "package_bytes": 727516,
    "published_at": "2026-11-22T18:18:56+00:00"
+  },
+  {
+   "package_format_version": 1,
+   "package_id": "com.arctec.face.metal-dark-flush",
+   "package_version": "1.0.0",
+   "display_name": "Metal Dark White (no wall)",
+   "description": "Interpreted with rules; prompt 2026-11-11.1",
+   "author": "Arctec",
+   "category": "analog",
+   "hardware_compatibility": [
+    "arctec-ws185"
+   ],
+   "display_compatibility": [
+    {
+     "width": 360,
+     "height": 360,
+     "shape": "round",
+     "color_depth": 16
+    }
+   ],
+   "minimum_firmware_version": "0.15.0",
+   "package_size": 639164,
+   "created_at": "2026-11-22T18:18:44+00:00",
+   "modified_at": "2026-11-22T18:18:44+00:00",
+   "signature": {
+    "scheme": "rsa3072-pss-sha256",
+    "key_id": "176482a58216e020",
+    "sha256": "9a6f756e5e51d8d5149320371f14a5fde65f1bef0c14697f2fb2d500ef0ee435",
+    "value": "Dbr1eAkaux6uLRpr0e7HL8yHd5BNmohDA5mbxQWEQj+bwbEHgOS8YZf0rJUUitPNs5fRdmHpklQWxiuvbw73ppZPK0noH3G7WkjSvamJOBI4N+llqFGsP05Dtt95Zl4B2Gt0MONYWbZWeGM2Kkm6dOQBoJDHO4yHvAJZ2hwLbG557PyN3dbcz/KmVMCibP4+EFibzDuV2CKMVXS/GyDYO24AWIQw8R0wDiaOfWNRwhTV17hsqZFkBXv1v9tW0qoH5WckBLqZ0VLmWRijIV4Vt2WCJdGNJ5wON1rdpM6/GO+WuYPgFWbbzYFa2v3hhTutZ6G4Vvti5eWiYXxhc84bgIo6MXOV9oRckZEosx1ONU4o1yRHPb29aty7IHOo1jmHqlavjr9wg57z+Um7jP2PYoVtF9p3uV+QCAj22KyFvPN8FMg3K/6i3PQQPGleHEEnZoWMyPQwzjYL9QWDpUh5KnpOZdbXpKL8PD9PZj/ZxffTTt57cJLqcnq92cPPWWek"
+   },
+   "publication_status": "published",
+   "preview_url": "faces/com.arctec.face.metal-dark-flush/1.0.0/preview.png",
+   "hero_dial_url": "faces/com.arctec.face.metal-dark-flush/1.0.0/hero-dial.png",
+   "package_url": "faces/com.arctec.face.metal-dark-flush/1.0.0/com.arctec.face.metal-dark-flush-1.0.0.awfp",
+   "package_sha256": "9a6f756e5e51d8d5149320371f14a5fde65f1bef0c14697f2fb2d500ef0ee435",
+   "package_bytes": 639164,
+   "published_at": "2026-11-22T18:19:00+00:00"
   },
   {
    "package_format_version": 1,
