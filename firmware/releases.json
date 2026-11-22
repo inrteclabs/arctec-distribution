@@ -1,6 +1,6 @@
 {
  "releases_format_version": 1,
- "generated_at": "2026-11-18T04:27:59+00:00",
+ "generated_at": "2026-11-22T05:15:07+00:00",
  "releases": [
   {
    "hardware_id": "arctec-ws146",
@@ -40,6 +40,19 @@
    "signature_scheme": "esp-idf-sbv2-rsa3072",
    "key_id": "7728059607ffe8fa",
    "published_at": "2026-11-18T02:37:55+00:00"
+  },
+  {
+   "hardware_id": "arctec-ws185",
+   "version": "0.17.0",
+   "minimum_installed_version": "0.13.0",
+   "channel": "stable",
+   "release_notes": "Maps app: turn-by-turn directions from the iPhone. Studio faces: live weather, date, steps, battery, stopwatch and directions; tilt pictures that catch the light. Installed faces now tilt the right way. Faster, safer face installs.",
+   "image_url": "firmware/arctec-ws185/0.17.0/arctic_watch-0.17.0.bin",
+   "image_bytes": 3346432,
+   "image_sha256": "9ebc6be26de48961cb352a39502fafc4356fcc38d68fc494558fdea17c826004",
+   "signature_scheme": "esp-idf-sbv2-rsa3072",
+   "key_id": "7728059607ffe8fa",
+   "published_at": "2026-11-22T05:15:07+00:00"
   }
  ]
 }
