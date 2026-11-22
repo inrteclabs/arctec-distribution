@@ -1,6 +1,6 @@
 {
  "releases_format_version": 1,
- "generated_at": "2026-11-22T05:15:11+00:00",
+ "generated_at": "2026-11-22T06:20:30+00:00",
  "releases": [
   {
    "hardware_id": "arctec-ws146",
@@ -66,6 +66,19 @@
    "signature_scheme": "esp-idf-sbv2-rsa3072",
    "key_id": "7728059607ffe8fa",
    "published_at": "2026-11-22T05:15:07+00:00"
+  },
+  {
+   "hardware_id": "arctec-ws185",
+   "version": "0.18.0",
+   "minimum_installed_version": "0.13.0",
+   "channel": "stable",
+   "release_notes": "Directions arrow now turns with your wrist between GPS updates, so it reacts as soon as you turn (Settings > Arrow follows wrist to turn it off). Includes everything in 0.17.0: Maps app, live data on Studio faces, tilt pictures.",
+   "image_url": "firmware/arctec-ws185/0.18.0/arctic_watch-0.18.0.bin",
+   "image_bytes": 3346432,
+   "image_sha256": "f6a814a5ed9371bec545545738384120553a092f22c461b106d9709d2beb15ea",
+   "signature_scheme": "esp-idf-sbv2-rsa3072",
+   "key_id": "7728059607ffe8fa",
+   "published_at": "2026-11-22T06:20:30+00:00"
   }
  ]
 }
