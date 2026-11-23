@@ -1,6 +1,6 @@
 {
  "catalog_format_version": 1,
- "generated_at": "2026-11-23T22:26:09+00:00",
+ "generated_at": "2026-11-23T22:26:13+00:00",
  "faces": [
   {
    "package_format_version": 1,
@@ -371,6 +371,43 @@
    "package_sha256": "e741c207dbba26646eeef3c4910cd508c1a70e8d8ff92a7ce75b87ea911fa770",
    "package_bytes": 694676,
    "published_at": "2026-11-23T22:26:09+00:00"
+  },
+  {
+   "package_format_version": 1,
+   "package_id": "com.arctec.face.metal-light-flush",
+   "package_version": "1.0.0",
+   "display_name": "Metal Light White (no wall)",
+   "description": "Interpreted with rules; prompt 2026-11-11.1",
+   "author": "Arctec",
+   "category": "analog",
+   "hardware_compatibility": [
+    "arctec-ws185"
+   ],
+   "display_compatibility": [
+    {
+     "width": 360,
+     "height": 360,
+     "shape": "round",
+     "color_depth": 16
+    }
+   ],
+   "minimum_firmware_version": "0.15.0",
+   "package_size": 690044,
+   "created_at": "2026-11-23T22:25:55+00:00",
+   "modified_at": "2026-11-23T22:25:55+00:00",
+   "signature": {
+    "scheme": "rsa3072-pss-sha256",
+    "key_id": "176482a58216e020",
+    "sha256": "d4fccb300f2e6402ca0426910e0e90a57d4e39a1b04ed44872e1725cb5e614be",
+    "value": "Pn9XqglDZbZiMla7qAXqqmk46GYPzzac5PaeVjqoDoPk8oMXJYOyd4JE4Y28USqLPs+c443Ut/Yf9H0nkkS6eHxuOqo7EwWPnujCDnvqZ51I1r4toLKq6DvpIjnO/lXMRLrnyTXiNlavrJYwzz59PPUPUObaAPQLbiyigh7FDlde2JZGSlFxKDOs2FVcFm5McLyOsglkuDB+B7lhfh6ymoKpFNx20FtYx3z4ulZHpPjZGRtwgqMuTu8v/YFhWbQoBk741/KmrHlTPaiand1RSMwFyIA2aKUfUSDB36Fad7qE76/jtiX+pcKF2MIDty6Z0fPlq/VTaM1A3vmKzhneb/pPaKkVLOKHTb72UxQY+eGwa2u6h7YX1UfBA03bUuH61tRi0w2Az8S+jODEYO0Vij5kn6fFg4HN8Luy1q2sWQAJIjPxEwn7czYng1GrZVJB1MdzUh5ugsHJJqAXfQvM4J8sGQ5vUyBmeQ7R3pjP0Z3ZIN0K+0tT3Za73FZ0ymTD"
+   },
+   "publication_status": "published",
+   "preview_url": "faces/com.arctec.face.metal-light-flush/1.0.0/preview.png",
+   "hero_dial_url": "faces/com.arctec.face.metal-light-flush/1.0.0/hero-dial.png",
+   "package_url": "faces/com.arctec.face.metal-light-flush/1.0.0/com.arctec.face.metal-light-flush-1.0.0.awfp",
+   "package_sha256": "d4fccb300f2e6402ca0426910e0e90a57d4e39a1b04ed44872e1725cb5e614be",
+   "package_bytes": 690044,
+   "published_at": "2026-11-23T22:26:13+00:00"
   },
   {
    "package_format_version": 1,
