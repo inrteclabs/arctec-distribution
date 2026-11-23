@@ -1,6 +1,6 @@
 {
  "catalog_format_version": 1,
- "generated_at": "2026-11-23T23:33:27+00:00",
+ "generated_at": "2026-11-23T23:33:38+00:00",
  "faces": [
   {
    "package_format_version": 1,
@@ -594,6 +594,43 @@
    "package_sha256": "6c0833c0d5fadc20455de7ba24c7a1c2a8c6dc241d753393ea4ea5766bffeff1",
    "package_bytes": 657700,
    "published_at": "2026-11-16T18:39:10+00:00"
+  },
+  {
+   "package_format_version": 1,
+   "package_id": "com.arctec.face.rolex",
+   "package_version": "1.0.0",
+   "display_name": "Rolex",
+   "description": "Interpreted with rules; prompt 2026-11-11.1",
+   "author": "Arctec",
+   "category": "analog",
+   "hardware_compatibility": [
+    "arctec-ws185"
+   ],
+   "display_compatibility": [
+    {
+     "width": 360,
+     "height": 360,
+     "shape": "round",
+     "color_depth": 16
+    }
+   ],
+   "minimum_firmware_version": "0.16.0",
+   "package_size": 844044,
+   "created_at": "2026-11-23T23:33:00+00:00",
+   "modified_at": "2026-11-23T23:33:00+00:00",
+   "signature": {
+    "scheme": "rsa3072-pss-sha256",
+    "key_id": "176482a58216e020",
+    "sha256": "56f85817596971d97f8db30fde983bd6d8741cb821f4919fde384bda36c03ec9",
+    "value": "chvTPsbgypRv8mpfyhbRT9hHf9dT7hu8p8A9PYqQLwSvaLEqSUa9bvhAmlLMGQ7RTe+QoW8J4LPerwlZ4YsDn0tAolVKRIWvl2fSC5DWxFWwRuZ+dFw7l3wbpw/DOYCvyTjLphUUsTBXq9ctIOgFqHTFbgYja2kZPEgtDx6WumZ4zmG4snUCUEvidW59ANJhtawBaQaeOxI8jjHnsrZwVCJi1QX+rbTzgRoGyhTAmx0MJk6D7QrbiB/A4EEcMr+NAFkQuXq8gw/86Wu6F/ybb9dvInf5SH2Y24gpZ3u5dLTxDHA7fd8ytHkt3Q1n8Um8xCFcTT6rtkukDFQTXM1VK7QNtU0lKgL1uq2HeMfnUsdHKm6iusc2CdfFwlFe6vfl2OSKuMuiCp/3J/TWRMJRuwSMbTFSYTVWujwZnRISDougIll42hMAAEKIJnA9ihB8vvWxRcSR7cWLYf78OlK00VIyo0yVsAFcX5KKbLf6c55JmbKAaMlYSILWcMmgnoKw"
+   },
+   "publication_status": "published",
+   "preview_url": "faces/com.arctec.face.rolex/1.0.0/preview.png",
+   "hero_dial_url": "faces/com.arctec.face.rolex/1.0.0/hero-dial.png",
+   "package_url": "faces/com.arctec.face.rolex/1.0.0/com.arctec.face.rolex-1.0.0.awfp",
+   "package_sha256": "56f85817596971d97f8db30fde983bd6d8741cb821f4919fde384bda36c03ec9",
+   "package_bytes": 844044,
+   "published_at": "2026-11-23T23:33:38+00:00"
   },
   {
    "package_format_version": 1,
